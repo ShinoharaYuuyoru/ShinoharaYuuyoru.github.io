@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>SamedayPostTest</title>
+    <url>//post/200613/SamedayPostTest/</url>
+    <content><![CDATA[<p>A post to test site directory saving mechanism.</p>
+]]></content>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello, Hexo and NexT!</title>
     <url>//post/200613/HelloWorld/</url>
     <content><![CDATA[<p>I start my personal blog today!</p>
@@ -9,8 +18,8 @@
 <p>And this post will test various features in Hexo, NexT, and Markdown!</p>
 ]]></content>
       <tags>
-        <tag>HelloWorld</tag>
         <tag>Test</tag>
+        <tag>HelloWorld</tag>
       </tags>
   </entry>
 </search>
