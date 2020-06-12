@@ -3,10 +3,10 @@
   <entry>
     <title>Hello, Hexo and NexT!</title>
     <url>//post/2020-06-13/200613/HelloWorld/</url>
-    <content><![CDATA[<p>I start my personal blog today!<br>A good start!</p>
+    <content><![CDATA[<p>I start my personal blog today!</p>
 <a id="more"></a>
 
-<p>And this post will test various features in Hexo and NexT!</p>
+<p>And this post will test various features in Hexo, NexT, and Markdown!</p>
 ]]></content>
       <tags>
         <tag>HelloWorld</tag>
