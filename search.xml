@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello, Hexo and NexT!</title>
+    <url>//post/2020-06-13/200613/HelloWorld/</url>
+    <content><![CDATA[<p>I start my personal blog today!<br>A good start!</p>
+<a id="more"></a>
+
+<p>And this post will test various features in Hexo and NexT!</p>
+]]></content>
+      <tags>
+        <tag>HelloWorld</tag>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+</search>
